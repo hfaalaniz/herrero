@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://herrero-fabian.netlify.app/sitemap.xml
+
+# No indexar archivos de configuración
+Disallow: /netlify.toml
