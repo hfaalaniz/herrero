@@ -6,3 +6,6 @@ Sitemap: https://herrero-fabian.netlify.app/sitemap.xml
 
 # No indexar archivos de configuración
 Disallow: /netlify.toml
+
+# Página antigua, ya no vigente
+Disallow: /index1.html

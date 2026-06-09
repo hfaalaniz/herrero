@@ -4,39 +4,10 @@
 
   <url>
     <loc>https://herrero-fabian.netlify.app/</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-06-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="es-AR" href="https://herrero-fabian.netlify.app/"/>
-  </url>
-
-  <!-- Secciones internas (anclas) -->
-  <url>
-    <loc>https://herrero-fabian.netlify.app/#servicios</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://herrero-fabian.netlify.app/#trabajos</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://herrero-fabian.netlify.app/#nosotros</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <url>
-    <loc>https://herrero-fabian.netlify.app/#contacto</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.7</priority>
   </url>
 
 </urlset>
